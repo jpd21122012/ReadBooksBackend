@@ -13,6 +13,7 @@ mobileApp.tables.add('Reservation');
 mobileApp.tables.add('Room');
 mobileApp.tables.add('RoomServices');
 mobileApp.tables.add('RoomType');
+mobileApp.tables.add('FoodCategory');
 
 
 app.use(mobileApp);
